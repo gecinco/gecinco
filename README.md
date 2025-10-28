@@ -1,6 +1,6 @@
 <p align="center"><samp><strong>> Hi there! I'm Gabriel</strong>. :wave:
 
-<p align="center"><samp>> Software Developer at <a src="https://inevent.com/">InEvent</a></samp></p>
+<p align="center"><samp>> Software Developer</samp></p>
 
 <div align="center">
 <p><samp><i>contact me:</i></p>
