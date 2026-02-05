@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2E2E2E">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2E2E2E">
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2E2E2E">
+  <img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2E2E2E">
 </div>
 
 <p><samp><strong><u>studying:</u></strong></p>
