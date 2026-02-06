@@ -6,7 +6,6 @@
 <p><samp><i>contact me:</i></p>
 
 <img src="https://img.shields.io/badge/linkedin-2E2E2E.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/Gmail-2E2E2E?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
 
